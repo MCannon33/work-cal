@@ -1,5 +1,5 @@
 # work-cal.github.io
-![work-cal](work-cal.png)
+![work-cal](/work-cal.png)
 
 *Description: Kicking off JQuery with work schedule! 
 
